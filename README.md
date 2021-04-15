@@ -18,5 +18,3 @@ Current focus:
 - [x] Flutter
 - [x] API Documentation
 - [x] Code review
-
-[https://thiagosf.net](thiagosf.net)

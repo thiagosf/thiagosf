@@ -18,3 +18,4 @@ Current focus:
 - [x] Flutter
 - [x] API Documentation
 - [x] Code review
+- [x] Blockchain

@@ -19,3 +19,4 @@ Current focus:
 - [x] API Documentation
 - [x] Code review
 - [x] Blockchain
+- [x] Solidity
